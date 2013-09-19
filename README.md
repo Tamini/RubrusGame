@@ -4,6 +4,8 @@ RubrusGame
 A multi-player game created using the Java programming language.  Players attempt to fit as many of their pieces as they 
 can on the board.  Players can play in teams of 2 (in order to play 2 vs 2) or free-for-all.  
 
+Players play the game using the mouse and keyboard.  The mouse can be used to move and select pieces, while the keyboard allows players to rotate their currently selected piece.
+
 
 
 Rubrus was created in Grade 11 using Java.
